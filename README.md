@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ami (@Ami-Mizuno). 
-- 📫 To contact me you would be better finding me on IRC at <a href="irc://heliopolis.genscripts.net:6667/#genscripts">#Genscripts</a>
+- 📫 To contact me you would be better finding me on IRC at heliopolis.genscripts.net on channel #Genscripts
 - 😄 Pronouns: she/her/hers
 
 <!---
